@@ -1,2 +1,2 @@
 # celebrity-command-center
-Celebrity Command Centr
+Celebrity Command Center
